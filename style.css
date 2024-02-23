@@ -4,8 +4,8 @@
 
 body{
     background-color: aliceblue;
-    font-family: Anta display ;
+    font-family: Anta&display ;
 }
 li{
-font-family: Pacifico display ;
+font-family: Pacifico&display ;
 }
